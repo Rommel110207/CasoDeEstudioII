@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\romme\\OneDrive\\Desktop\\Caso de estudio II\\CatalogoDeCursos\\CatalogoDeCursos.csproj": {}
+    "C:\\Users\\atorr\\OneDrive\\Documentos\\CasoDeEstudioII\\CasoDeEstudioII\\CatalogoDeCursos\\CatalogoDeCursos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\romme\\OneDrive\\Desktop\\Caso de estudio II\\CatalogoDeCursos\\CatalogoDeCursos.csproj": {
+    "C:\\Users\\atorr\\OneDrive\\Documentos\\CasoDeEstudioII\\CasoDeEstudioII\\CatalogoDeCursos\\CatalogoDeCursos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\romme\\OneDrive\\Desktop\\Caso de estudio II\\CatalogoDeCursos\\CatalogoDeCursos.csproj",
+        "projectUniqueName": "C:\\Users\\atorr\\OneDrive\\Documentos\\CasoDeEstudioII\\CasoDeEstudioII\\CatalogoDeCursos\\CatalogoDeCursos.csproj",
         "projectName": "CatalogoDeCursos",
-        "projectPath": "C:\\Users\\romme\\OneDrive\\Desktop\\Caso de estudio II\\CatalogoDeCursos\\CatalogoDeCursos.csproj",
-        "packagesPath": "C:\\Users\\romme\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\romme\\OneDrive\\Desktop\\Caso de estudio II\\CatalogoDeCursos\\obj\\",
+        "projectPath": "C:\\Users\\atorr\\OneDrive\\Documentos\\CasoDeEstudioII\\CasoDeEstudioII\\CatalogoDeCursos\\CatalogoDeCursos.csproj",
+        "packagesPath": "C:\\Users\\atorr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\atorr\\OneDrive\\Documentos\\CasoDeEstudioII\\CasoDeEstudioII\\CatalogoDeCursos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\romme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\atorr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
